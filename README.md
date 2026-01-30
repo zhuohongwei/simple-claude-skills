@@ -1,6 +1,6 @@
-# agent-skills
+# claude-skills
 
-A list of skills that might be useful when using Claude CLI.
+My experiment with writing claude skills that might be useful.
 
 ## Available Skills
 
